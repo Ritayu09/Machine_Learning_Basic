@@ -50,12 +50,11 @@ ANN model for understanding churn at a bank by taking into account several facto
 Convolutional neural networks have been the most influential innovations in the field of computer vision. CNN model in python as a dog or cat identifier.
 
 # Natural Language Processing
-Natural Language Processing (or NLP) is applying Machine Learning models to text and language. Teaching machines to understand what is said in spoken and written word is the focus of Natural Language Processing
-Here in this code I have done the following things:
+Natural Language Processing (or NLP) is applying Machine Learning models to text and language. Teaching machines to understand what is said in spoken and written word is the focus of Natural Language Processing. Code implements the following aspects of NLP:
 
-    Clean texts to prepare them for the Machine Learning models,
-    Create a Bag of Words model,
-    Apply Machine Learning models onto this Bag of Worlds model.
++ Clean texts to prepare them for the Machine Learning models
++ Create a Bag of Words model
++ Apply Machine Learning models onto this Bag of Worlds model
 
 # Model Selection 
 
